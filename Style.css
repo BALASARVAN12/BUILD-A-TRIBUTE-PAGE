@@ -1,0 +1,42 @@
+body{
+    background-color: #eee;
+   
+    font-weight: 100;
+}
+#img-caption{
+  font-size:25px;
+}
+header{
+    background-color:#ccc;
+    border-radius:10px;
+}
+h1,p{
+    text-align: center;
+   
+    
+}
+#img-div{
+    text-align: center;
+}
+legend{
+    background-color:lawngreen;
+    font-size:30px
+
+}
+fieldset{
+    background-color:chocolate;
+    border-radius: 10px;
+    font-size:25px
+}
+.text-quotes{
+  text-align:center;
+}
+.text-1{
+  text-align:center;
+}
+.info{
+  text-align:center;
+}
+.a{
+  text-align:center
+}
